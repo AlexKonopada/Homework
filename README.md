@@ -9,6 +9,4 @@ I didn't add the third layer(((
 
 
 ![Screenshot from 2022-02-11 19-33-01](https://user-images.githubusercontent.com/96167317/153640672-4ed48598-a3e5-469c-8899-2610e0cf374b.png)
-open this 
 ![Screenshot from 2022-02-11 19-34-19](https://user-images.githubusercontent.com/96167317/153640780-12b3ad4a-465b-4eda-8262-63d7e482841c.png)
-and this to see an example
